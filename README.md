@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![hai](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm80MnV5ZmR2MGVwamYwemM5OXQ5MG11YXBwbnNsa2FmcHVud3BpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/ainylestari/github-readme-stats)
