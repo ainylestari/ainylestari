@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![hai](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm80MnV5ZmR2MGVwamYwemM5OXQ5MG11YXBwbnNsa2FmcHVud3BpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm80MnV5ZmR2MGVwamYwemM5OXQ5MG11YXBwbnNsa2FmcHVud3BpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="600" height="450" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/ainylestari/github-readme-stats)
+<a align="center" href="https://github.com/ainylestari/convoychat">
+  <img height=200 align="center" background-color="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=ainylestari&layout=compact&langs_count=10&card_width=420&bg_color=000000&text_color=ffffff" />
+</a>
