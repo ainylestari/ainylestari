@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 </a>
 
 ## 📬 Connect with me
-[![Instagram](https://img.shields.io/badge/-@ainylestari-blue?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ainylest_ryz)
+[![Instagram](https://img.shields.io/badge/-@ainylest_ryz-blue?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ainylest_ryz)
 [![LinkedIn](https://img.shields.io/badge/-Ainy%20Lestari-pink?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ainilestari)](https://linkedin.com/in/ainilestari)
 [![Email](https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:ainilestari206@gmail.com)
-[![Discord](https://img.shields.io/badge/-ainy%230001-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/ainyvzzn)
+[![Discord](https://img.shields.io/badge/-ainyvzzn-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/ainyvzzn)
 
